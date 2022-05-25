@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathish916
-- 👀 I’m interested in frone end technologies
-- 🌱 I’m currently learning Angular and Blockhain
+- 👀 I’m interested in front end stream
+- 🌱 I’m currently learning Angular and Blockhain technologies
 - 📫 How to reach me : satzkumar916@gmail.com
 
 <!---
